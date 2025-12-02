@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvinodjembu%2Fterraform.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvinodjembu%2Fterraform?ref=badge_shield)
+
 Terraform -  https://www.terraform.io/
 
 Pre-Requesties
@@ -73,3 +75,7 @@ For DSE Installation/Upgrade
 Refer  https://github.com/vinodjembu/datastax-ansible
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvinodjembu%2Fterraform.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvinodjembu%2Fterraform?ref=badge_large)
